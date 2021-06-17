@@ -5,7 +5,7 @@ Developed implementing controller/service/repository patterns.
 
 ---
 
-## Requiriments
+## Requirements
 - PHP >= 8
 - Composer >= 2
 
